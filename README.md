@@ -1,3 +1,5 @@
+Live-link: https://3d-project-app.vercel.app/
+
 # 3D + Animation Website
 - AOS for animation link: https://michalsnik.github.io/aos
 - Spline for the 3D link: https://app.spline.design/home
